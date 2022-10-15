@@ -1,4 +1,4 @@
-Following process can buld CoreML model file.
+Following process can build CoreML model file.
 ****
 git clone https://github.com/mshamash/yolov5
 cd yolov5
