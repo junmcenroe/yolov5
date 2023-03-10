@@ -1,7 +1,7 @@
 Following process can build CoreML model file.
 ****
-git clone https://github.com/mshamash/yolov5
-cd yolov5
+git clone https://github.com/junmcenroe/yolov5-with-NMS
+cd yolov5-with-NMS
 git checkout fix/coreml_export_nms_layer
 pip install -qr requirements.txt # install
 python export.py --weights YourBest.pt --include coreml
